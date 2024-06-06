@@ -18,6 +18,11 @@ public class User {
 
     public int setID(int id){
         this.id = id;
+        return id;
     }
+
+
+
+
 
 }
